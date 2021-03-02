@@ -9,6 +9,7 @@ require_once('functions.php');
 
 
 
+
     <head>
 
         <!-- metas -->
@@ -1394,7 +1395,7 @@ require_once('functions.php');
                                 </p>
                                 <p>
                                   <strong>銀行振り込み</strong><br>
-                                  指定の口座にお振り込み下さい。
+                                  指定の口座にお振り込み下さい。aa
                                 </p>
         										</div>
         								</div>
