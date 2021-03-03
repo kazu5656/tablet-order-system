@@ -17,7 +17,7 @@ session_start();
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
         <meta name="keywords" content="TABLET ORDER SYSTEM,タブレットでメニューを注文,タブレットオーダーシステム" />
-        <meta name="description" content="タブレットでメニューを注文。飲食店の業務効率化に。">
+        <meta name="description" content="タブレットでメニューを注文できます。飲食店の業務効率化に。">
 
         <!-- title  -->
         <title>403エラー| <?php echo SERVICE_NAME; ?></title>
@@ -237,6 +237,6 @@ session_start();
 
     </body>
 
-    
+
 
 </html>
