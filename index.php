@@ -1395,7 +1395,7 @@ require_once('functions.php');
                                 </p>
                                 <p>
                                   <strong>銀行振り込み</strong><br>
-                                  指定の口座にお振り込み下さい。aaa
+                                  指定の口座にお振り込み下さい。
                                 </p>
         										</div>
         								</div>
